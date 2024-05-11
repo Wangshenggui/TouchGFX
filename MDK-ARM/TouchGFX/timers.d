@@ -1,0 +1,15 @@
+touchgfx\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/timers.c
+touchgfx\timers.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+touchgfx\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+touchgfx\timers.o: D:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+touchgfx\timers.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+touchgfx\timers.o: ../Core/Inc/FreeRTOSConfig.h
+touchgfx\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+touchgfx\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+touchgfx\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+touchgfx\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+touchgfx\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+touchgfx\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+touchgfx\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+touchgfx\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h
+touchgfx\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h

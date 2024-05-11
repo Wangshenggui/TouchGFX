@@ -1,0 +1,14 @@
+touchgfx\coordinateconversion.o: ../touchgfx/gui/src/containers/coordinateconversion.cpp
+touchgfx\coordinateconversion.o: ../touchgfx/gui/include/gui/containers/CoordinateConversion.hpp
+touchgfx\coordinateconversion.o: ../middlewares/st/touchgfx/framework/include/touchgfx/Utils.hpp
+touchgfx\coordinateconversion.o: ../middlewares/st/touchgfx/framework/include/touchgfx/Bitmap.hpp
+touchgfx\coordinateconversion.o: ../middlewares/st/touchgfx/framework/include/touchgfx/hal/Types.hpp
+touchgfx\coordinateconversion.o: D:\Keil\ARM\ARMCC\Bin\..\include\assert.h
+touchgfx\coordinateconversion.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+touchgfx\coordinateconversion.o: ../middlewares/st/touchgfx/framework/include/touchgfx/hal/Config.hpp
+touchgfx\coordinateconversion.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdio.h
+touchgfx\coordinateconversion.o: D:\Keil\ARM\ARMCC\Bin\..\include\string.h
+touchgfx\coordinateconversion.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+touchgfx\coordinateconversion.o: D:\Keil\ARM\ARMCC\Bin\..\include\time.h
+touchgfx\coordinateconversion.o: D:\Keil\ARM\ARMCC\Bin\..\include\math.h
+touchgfx\coordinateconversion.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdbool.h
