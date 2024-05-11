@@ -1,0 +1,10 @@
+touchgfx\table_misansvf_20_1bpp.o: ../touchgfx/generated/fonts/src/table_misansvf_20_1bpp.cpp
+touchgfx\table_misansvf_20_1bpp.o: ../touchgfx/generated/fonts/include/fonts/GeneratedFont.hpp
+touchgfx\table_misansvf_20_1bpp.o: ../middlewares/st/touchgfx/framework/include/touchgfx/ConstFont.hpp
+touchgfx\table_misansvf_20_1bpp.o: ../middlewares/st/touchgfx/framework/include/touchgfx/Font.hpp
+touchgfx\table_misansvf_20_1bpp.o: ../middlewares/st/touchgfx/framework/include/touchgfx/Unicode.hpp
+touchgfx\table_misansvf_20_1bpp.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdarg.h
+touchgfx\table_misansvf_20_1bpp.o: ../middlewares/st/touchgfx/framework/include/touchgfx/hal/Types.hpp
+touchgfx\table_misansvf_20_1bpp.o: D:\Keil\ARM\ARMCC\Bin\..\include\assert.h
+touchgfx\table_misansvf_20_1bpp.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+touchgfx\table_misansvf_20_1bpp.o: ../middlewares/st/touchgfx/framework/include/touchgfx/hal/Config.hpp

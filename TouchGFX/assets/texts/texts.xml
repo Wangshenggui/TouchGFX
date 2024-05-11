@@ -1,0 +1,1183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="texts.xsd" Version="4.23.2">
+  <Languages>
+    <Language Id="GB" />
+  </Languages>
+  <Texts>
+    <TextGroup Id="Group1" />
+    <TextGroup Id="Unsorted">
+      <Text Id="__SingleUse_CRAI" Alignment="Left" TypographyId="Verdana20">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_ZLZD" Alignment="Center" TypographyId="MiSanVF30">
+        <Translation Language="GB">距离: &lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_PL2L" Alignment="Center" TypographyId="MiSanVF30">
+        <Translation Language="GB">计算距离</Translation>
+      </Text>
+      <Text Id="__SingleUse_34ML" Alignment="Center" TypographyId="MiSanVF30">
+        <Translation Language="GB">删除文件</Translation>
+      </Text>
+      <Text Id="__SingleUse_O3YX" Alignment="Left" TypographyId="Verdana20">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_5V9K" Alignment="Center" TypographyId="MiSanVF30">
+        <Translation Language="GB">点距离 : &lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_IV56" Alignment="Left" TypographyId="Verdana20">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_UYXL" Alignment="Center" TypographyId="MiSanVF30">
+        <Translation Language="GB">Lat : &lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_QOVA" Alignment="Left" TypographyId="Verdana20">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_CNN9" Alignment="Center" TypographyId="MiSanVF30">
+        <Translation Language="GB">Lon : &lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_9B7O" Alignment="Center" TypographyId="MiSanVF24">
+        <Translation Language="GB">CMD</Translation>
+      </Text>
+      <Text Id="__SingleUse_3K50" Alignment="Center" TypographyId="MiSanVF24">
+        <Translation Language="GB">位置检测</Translation>
+      </Text>
+      <Text Id="__SingleUse_6NVG" Alignment="Left" TypographyId="Verdana20">
+        <Translation Language="GB">106.616113</Translation>
+      </Text>
+      <Text Id="__SingleUse_J3X6" Alignment="Left" TypographyId="Verdana20">
+        <Translation Language="GB">26.376401</Translation>
+      </Text>
+      <Text Id="__SingleUse_ZDBE" Alignment="Left" TypographyId="Verdana20">
+        <Translation Language="GB">&lt;value&gt;&#10;&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_I6OM" Alignment="Left" TypographyId="Verdana20">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_OS09" Alignment="Center" TypographyId="MiSanVF30">
+        <Translation Language="GB">bd09Lat : &lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_8VG9" Alignment="Left" TypographyId="Verdana20">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_K3B9" Alignment="Center" TypographyId="MiSanVF30">
+        <Translation Language="GB">bd09Lon : &lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_QK9D" Alignment="Center" TypographyId="MiSanVF30">
+        <Translation Language="GB">记录该点</Translation>
+      </Text>
+      <Text Id="__SingleUse_4EFI" Alignment="Left" TypographyId="Verdana20">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_92C1" Alignment="Center" TypographyId="MiSanVF30">
+        <Translation Language="GB">模式:&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_5EDG" Alignment="Left" TypographyId="Verdana20">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_8ATD" Alignment="Center" TypographyId="MiSanVF30">
+        <Translation Language="GB">Lat : &lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_XRY5" Alignment="Left" TypographyId="Verdana20">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_F1ME" Alignment="Center" TypographyId="MiSanVF30">
+        <Translation Language="GB">Lon : &lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_GL3A" Alignment="Center" TypographyId="MiSanVF30">
+        <Translation Language="GB">加载地图</Translation>
+      </Text>
+      <Text Id="__SingleUse_M7Q3" Alignment="Center" TypographyId="MiSanVF24">
+        <Translation Language="GB">NES游戏</Translation>
+      </Text>
+      <Text Id="__SingleUse_CSAW" Alignment="Left" TypographyId="MiSanVF30">
+        <Translation Language="GB">正反</Translation>
+      </Text>
+      <Text Id="__SingleUse_ZMY9" Alignment="Center" TypographyId="MiSanVF30">
+        <Translation Language="GB">&lt;value&gt;向</Translation>
+      </Text>
+      <Text Id="__SingleUse_RT5H" Alignment="Center" TypographyId="MiSanVF30">
+        <Translation Language="GB">发送</Translation>
+      </Text>
+      <Text Id="__SingleUse_RQ31" Alignment="Left" TypographyId="MiSanVF60">
+        <Translation Language="GB">0</Translation>
+      </Text>
+      <Text Id="__SingleUse_D0HN" Alignment="Center" TypographyId="MiSanVF60">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_VBTV" Alignment="Left" TypographyId="MiSanVF60">
+        <Translation Language="GB">0</Translation>
+      </Text>
+      <Text Id="__SingleUse_PYG3" Alignment="Left" TypographyId="MiSanVF20">
+        <Translation Language="GB">R</Translation>
+      </Text>
+      <Text Id="__SingleUse_BNHX" Alignment="Center" TypographyId="MiSanVF20">
+        <Translation Language="GB">定位 : &lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_MVKO" Alignment="Left" TypographyId="MiSanVF20">
+        <Translation Language="GB">56</Translation>
+      </Text>
+      <Text Id="__SingleUse_QABA" Alignment="Left" TypographyId="MiSanVF20">
+        <Translation Language="GB">123</Translation>
+      </Text>
+      <Text Id="__SingleUse_CPQJ" Alignment="Center" TypographyId="MiSanVF20">
+        <Translation Language="GB">&lt;value&gt;:&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_IDBF" Alignment="Left" TypographyId="MiSanVF20">
+        <Translation Language="GB">1.5</Translation>
+      </Text>
+      <Text Id="__SingleUse_K3LT" Alignment="Center" TypographyId="MiSanVF20">
+        <Translation Language="GB">飞行：&lt;value&gt;m/s</Translation>
+      </Text>
+      <Text Id="__SingleUse_KKYO" Alignment="Left" TypographyId="MiSanVF20">
+        <Translation Language="GB">5</Translation>
+      </Text>
+      <Text Id="__SingleUse_2I33" Alignment="Center" TypographyId="MiSanVF20">
+        <Translation Language="GB">故障：&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_O3ZM" Alignment="Left" TypographyId="MiSanVF20">
+        <Translation Language="GB">3</Translation>
+      </Text>
+      <Text Id="__SingleUse_79QB" Alignment="Center" TypographyId="MiSanVF20">
+        <Translation Language="GB">正常：&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_WNSS" Alignment="Left" TypographyId="MiSanVF20">
+        <Translation Language="GB">8</Translation>
+      </Text>
+      <Text Id="__SingleUse_IUFJ" Alignment="Center" TypographyId="MiSanVF20">
+        <Translation Language="GB">总台数：&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_BG98" Alignment="Left" TypographyId="Verdana20">
+        <Translation Language="GB">2.4m</Translation>
+      </Text>
+      <Text Id="__SingleUse_QFA8" Alignment="Center" TypographyId="MiSanVF20">
+        <Translation Language="GB">高度：&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_HO6D" Alignment="Left" TypographyId="Verdana20">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_SC21" Alignment="Center" TypographyId="MiSanVF30">
+        <Translation Language="GB">时间 : &lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_AOBC" Alignment="Left" TypographyId="Verdana20">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_76SG" Alignment="Center" TypographyId="MiSanVF30">
+        <Translation Language="GB">模式:&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_XEOC" Alignment="Left" TypographyId="Verdana20">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_MVMH" Alignment="Center" TypographyId="MiSanVF30">
+        <Translation Language="GB">Lat : &lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_VKWY" Alignment="Left" TypographyId="Verdana20">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_36OD" Alignment="Center" TypographyId="MiSanVF30">
+        <Translation Language="GB">Lon : &lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_EWGE" Alignment="Left" TypographyId="Verdana20">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_XGJP" Alignment="Center" TypographyId="MiSanVF30">
+        <Translation Language="GB">速度 : &lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_6RN8" Alignment="Left" TypographyId="Verdana25">
+        <Translation Language="GB">$GNRMC,033107.00,A,2623.01485799,N,10636.51513945,E,0.009,17.2,270224,2.0,W,A,C*6D</Translation>
+      </Text>
+      <Text Id="__SingleUse_GCLX" Alignment="Left" TypographyId="Verdana20">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_3W69" Alignment="Left" TypographyId="MiSanVF24">
+        <Translation Language="GB">无线电串口助手</Translation>
+      </Text>
+      <Text Id="__SingleUse_IYWN" Alignment="Center" TypographyId="MiSanVF24">
+        <Translation Language="GB">工作进程</Translation>
+      </Text>
+      <Text Id="__SingleUse_P07Y" Alignment="Center" TypographyId="MiSanVF24">
+        <Translation Language="GB">音乐播放</Translation>
+      </Text>
+      <Text Id="__SingleUse_DHPR" Alignment="Center" TypographyId="MiSanVF24">
+        <Translation Language="GB">取消</Translation>
+      </Text>
+      <Text Id="__SingleUse_XZZX" Alignment="Center" TypographyId="MiSanVF24">
+        <Translation Language="GB">确定</Translation>
+      </Text>
+      <Text Id="__SingleUse_DYUZ" Alignment="Left" TypographyId="MiSanVF24">
+        <Translation Language="GB">确定</Translation>
+      </Text>
+      <Text Id="__SingleUse_222O" Alignment="Left" TypographyId="MiSanVF24">
+        <Translation Language="GB">确定恢复设置？</Translation>
+      </Text>
+      <Text Id="__SingleUse_R518" Alignment="Center" TypographyId="MiSanVF24">
+        <Translation Language="GB">发送设置命令</Translation>
+      </Text>
+      <Text Id="__SingleUse_NDDZ" Alignment="Center" TypographyId="MiSanVF24">
+        <Translation Language="GB">禁用COM2</Translation>
+      </Text>
+      <Text Id="__SingleUse_ZUT4" Alignment="Left" TypographyId="Verdana25">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_BJXT" Alignment="Left" TypographyId="Verdana25">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_GKJG" Alignment="Left" TypographyId="Verdana20">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_D7HJ" Alignment="Center" TypographyId="MiSanVF30">
+        <Translation Language="GB">错误：4G配置超时</Translation>
+      </Text>
+      <Text Id="__SingleUse_RQV7" Alignment="Center" TypographyId="MiSanVF30">
+        <Translation Language="GB">4G配置成功</Translation>
+      </Text>
+      <Text Id="__SingleUse_KBCW" Alignment="Center" TypographyId="MiSanVF30">
+        <Translation Language="GB">4G配置中......</Translation>
+      </Text>
+      <Text Id="__SingleUse_AR0U" Alignment="Center" TypographyId="MiSanVF24">
+        <Translation Language="GB">从天线低功耗</Translation>
+      </Text>
+      <Text Id="__SingleUse_CISQ" Alignment="Center" TypographyId="MiSanVF24">
+        <Translation Language="GB">禁用从天线</Translation>
+      </Text>
+      <Text Id="__SingleUse_UC46" Alignment="Center" TypographyId="MiSanVF24">
+        <Translation Language="GB">启用从天线</Translation>
+      </Text>
+      <Text Id="__SingleUse_P1ZC" Alignment="Center" TypographyId="MiSanVF24">
+        <Translation Language="GB">启用GAL</Translation>
+      </Text>
+      <Text Id="__SingleUse_VZQA" Alignment="Center" TypographyId="MiSanVF24">
+        <Translation Language="GB">启用GLO</Translation>
+      </Text>
+      <Text Id="__SingleUse_SJOU" Alignment="Center" TypographyId="MiSanVF24">
+        <Translation Language="GB">启用GPS</Translation>
+      </Text>
+      <Text Id="__SingleUse_IYKL" Alignment="Center" TypographyId="MiSanVF24">
+        <Translation Language="GB">启用BDS</Translation>
+      </Text>
+      <Text Id="__SingleUse_156F" Alignment="Center" TypographyId="MiSanVF24">
+        <Translation Language="GB">启用卫星</Translation>
+      </Text>
+      <Text Id="__SingleUse_WHU2" Alignment="Center" TypographyId="MiSanVF24">
+        <Translation Language="GB">禁用GAL</Translation>
+      </Text>
+      <Text Id="__SingleUse_XCUW" Alignment="Center" TypographyId="MiSanVF24">
+        <Translation Language="GB">禁用GLO</Translation>
+      </Text>
+      <Text Id="__SingleUse_2ESZ" Alignment="Center" TypographyId="MiSanVF24">
+        <Translation Language="GB">禁用GPS</Translation>
+      </Text>
+      <Text Id="__SingleUse_C73E" Alignment="Center" TypographyId="MiSanVF24">
+        <Translation Language="GB">禁用BDS</Translation>
+      </Text>
+      <Text Id="__SingleUse_GADQ" Alignment="Center" TypographyId="MiSanVF24">
+        <Translation Language="GB">禁用卫星</Translation>
+      </Text>
+      <Text Id="__SingleUse_2YZZ" Alignment="Center" TypographyId="MiSanVF24">
+        <Translation Language="GB">禁用COM1</Translation>
+      </Text>
+      <Text Id="__SingleUse_AU7F" Alignment="Center" TypographyId="MiSanVF24">
+        <Translation Language="GB">恢复设置</Translation>
+      </Text>
+      <Text Id="__SingleUse_9OHX" Alignment="Center" TypographyId="MiSanVF24">
+        <Translation Language="GB">保存设置</Translation>
+      </Text>
+      <Text Id="__SingleUse_C85W" Alignment="Left" TypographyId="MiSanVF30">
+        <Translation Language="GB">1</Translation>
+      </Text>
+      <Text Id="__SingleUse_J6ON" Alignment="Left" TypographyId="MiSanVF30">
+        <Translation Language="GB">1</Translation>
+      </Text>
+      <Text Id="__SingleUse_02PS" Alignment="Center" TypographyId="MiSanVF40">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_P91A" Alignment="Center" TypographyId="Verdana20">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_IKNU" Alignment="Center" TypographyId="MiSanVF24">
+        <Translation Language="GB">RTK配置</Translation>
+      </Text>
+      <Text Id="__SingleUse_ANL6" Alignment="Left" TypographyId="MiSanVF24">
+        <Translation Language="GB">RTK配置工具</Translation>
+      </Text>
+      <Text Id="ResourceId12" Alignment="Left" TypographyId="MiSanVF24">
+        <Translation Language="GB">Ntripu用户</Translation>
+      </Text>
+      <Text Id="ResourceId11" Alignment="Left" TypographyId="MiSanVF24">
+        <Translation Language="GB">Ntrip服务器</Translation>
+      </Text>
+      <Text Id="ResourceId10" Alignment="Left" TypographyId="MiSanVF24">
+        <Translation Language="GB">运行状态</Translation>
+      </Text>
+      <Text Id="ResourceId9" Alignment="Left" TypographyId="MiSanVF24">
+        <Translation Language="GB">SIM状态</Translation>
+      </Text>
+      <Text Id="ResourceId8" Alignment="Left" TypographyId="MiSanVF24">
+        <Translation Language="GB">网络注册</Translation>
+      </Text>
+      <Text Id="ResourceId7" Alignment="Left" TypographyId="MiSanVF24">
+        <Translation Language="GB">卡ICCID</Translation>
+      </Text>
+      <Text Id="ResourceId6" Alignment="Left" TypographyId="MiSanVF24">
+        <Translation Language="GB">设备IMEI</Translation>
+      </Text>
+      <Text Id="ResourceId5" Alignment="Left" TypographyId="MiSanVF24">
+        <Translation Language="GB">信号质量</Translation>
+      </Text>
+      <Text Id="ResourceId4" Alignment="Left" TypographyId="MiSanVF24">
+        <Translation Language="GB">DTU IP</Translation>
+      </Text>
+      <Text Id="ResourceId3" Alignment="Left" TypographyId="MiSanVF24">
+        <Translation Language="GB">DTU版本</Translation>
+      </Text>
+      <Text Id="ResourceId2" Alignment="Left" TypographyId="MiSanVF24">
+        <Translation Language="GB">已配参数</Translation>
+      </Text>
+      <Text Id="ResourceId1" Alignment="Left" TypographyId="MiSanVF24">
+        <Translation Language="GB">在线状态</Translation>
+      </Text>
+      <Text Id="__SingleUse_SWCD" Alignment="Left" TypographyId="MiSanVF24">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_ZQ0C" Alignment="Center" TypographyId="MiSanVF24">
+        <Translation Language="GB">Ntripu用户</Translation>
+      </Text>
+      <Text Id="__SingleUse_SMDU" Alignment="Center" TypographyId="MiSanVF24">
+        <Translation Language="GB">Ntrip服务器</Translation>
+      </Text>
+      <Text Id="__SingleUse_AHBA" Alignment="Center" TypographyId="MiSanVF24">
+        <Translation Language="GB">运行状态</Translation>
+      </Text>
+      <Text Id="__SingleUse_QC3Q" Alignment="Center" TypographyId="MiSanVF24">
+        <Translation Language="GB">SIM状态</Translation>
+      </Text>
+      <Text Id="__SingleUse_8EPL" Alignment="Center" TypographyId="MiSanVF24">
+        <Translation Language="GB">网络注册</Translation>
+      </Text>
+      <Text Id="__SingleUse_SMTJ" Alignment="Center" TypographyId="MiSanVF24">
+        <Translation Language="GB">卡ICCID</Translation>
+      </Text>
+      <Text Id="__SingleUse_HIM6" Alignment="Center" TypographyId="MiSanVF24">
+        <Translation Language="GB">设备IMEI</Translation>
+      </Text>
+      <Text Id="__SingleUse_CBFO" Alignment="Center" TypographyId="MiSanVF24">
+        <Translation Language="GB">信号质量</Translation>
+      </Text>
+      <Text Id="__SingleUse_62M1" Alignment="Center" TypographyId="MiSanVF24">
+        <Translation Language="GB">DTU IP</Translation>
+      </Text>
+      <Text Id="__SingleUse_XXCS" Alignment="Center" TypographyId="MiSanVF24">
+        <Translation Language="GB">DTU版本</Translation>
+      </Text>
+      <Text Id="__SingleUse_QTP2" Alignment="Center" TypographyId="MiSanVF24">
+        <Translation Language="GB">已配参数</Translation>
+      </Text>
+      <Text Id="__SingleUse_X5SU" Alignment="Center" TypographyId="MiSanVF24">
+        <Translation Language="GB">在线状态</Translation>
+      </Text>
+      <Text Id="__SingleUse_5S80" Alignment="Center" TypographyId="MiSanVF24">
+        <Translation Language="GB">查询</Translation>
+      </Text>
+      <Text Id="__SingleUse_I28X" Alignment="Center" TypographyId="MiSanVF24">
+        <Translation Language="GB">设置</Translation>
+      </Text>
+      <Text Id="__SingleUse_MT2S" Alignment="Center" TypographyId="MiSanVF24">
+        <Translation Language="GB">查询</Translation>
+      </Text>
+      <Text Id="__SingleUse_2651" Alignment="Center" TypographyId="MiSanVF24">
+        <Translation Language="GB">设置</Translation>
+      </Text>
+      <Text Id="__SingleUse_YQ9O" Alignment="Left" TypographyId="MiSanVF30">
+        <Translation Language="GB">RTCM30_GR</Translation>
+      </Text>
+      <Text Id="__SingleUse_LM9U" Alignment="Center" TypographyId="MiSanVF24">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_K4TZ" Alignment="Left" TypographyId="MiSanVF30">
+        <Translation Language="GB">RTCM33_GRC</Translation>
+      </Text>
+      <Text Id="__SingleUse_4EJY" Alignment="Center" TypographyId="MiSanVF24">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_ZTP4" Alignment="Left" TypographyId="MiSanVF30">
+        <Translation Language="GB">RTCM33_GRCE</Translation>
+      </Text>
+      <Text Id="__SingleUse_AP8H" Alignment="Center" TypographyId="MiSanVF24">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_RWQH" Alignment="Left" TypographyId="MiSanVF30">
+        <Translation Language="GB">RTCM33_GRCEpro</Translation>
+      </Text>
+      <Text Id="__SingleUse_V5FH" Alignment="Left" TypographyId="MiSanVF30">
+        <Translation Language="GB">RTCM33_GRCEJ</Translation>
+      </Text>
+      <Text Id="__SingleUse_1EHJ" Alignment="Center" TypographyId="MiSanVF24">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_KXW2" Alignment="Center" TypographyId="MiSanVF24">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_W7TZ" Alignment="Left" TypographyId="MiSanVF20">
+        <Translation Language="GB">挂载点</Translation>
+      </Text>
+      <Text Id="__SingleUse_TAFR" Alignment="Left" TypographyId="MiSanVF30">
+        <Translation Language="GB">fyx99346</Translation>
+      </Text>
+      <Text Id="__SingleUse_IKJ0" Alignment="Left" TypographyId="MiSanVF24">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_IRGK" Alignment="Left" TypographyId="MiSanVF20">
+        <Translation Language="GB">Ntrip密码</Translation>
+      </Text>
+      <Text Id="__SingleUse_QBXQ" Alignment="Left" TypographyId="MiSanVF30">
+        <Translation Language="GB">cedr7107</Translation>
+      </Text>
+      <Text Id="__SingleUse_1O4N" Alignment="Left" TypographyId="MiSanVF24">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_I4AB" Alignment="Left" TypographyId="MiSanVF20">
+        <Translation Language="GB">Ntrip用户名</Translation>
+      </Text>
+      <Text Id="__SingleUse_SKGS" Alignment="Left" TypographyId="MiSanVF30">
+        <Translation Language="GB">120.253.226.97</Translation>
+      </Text>
+      <Text Id="__SingleUse_ZY7Y" Alignment="Left" TypographyId="MiSanVF24">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_KJLO" Alignment="Left" TypographyId="MiSanVF20">
+        <Translation Language="GB">端口：</Translation>
+      </Text>
+      <Text Id="__SingleUse_DDBN" Alignment="Left" TypographyId="MiSanVF30">
+        <Translation Language="GB">8001</Translation>
+      </Text>
+      <Text Id="__SingleUse_OBQI" Alignment="Center" TypographyId="MiSanVF24">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_O7J1" Alignment="Left" TypographyId="MiSanVF24">
+        <Translation Language="GB">4G  配置工具</Translation>
+      </Text>
+      <Text Id="__SingleUse_ADXI" Alignment="Left" TypographyId="MiSanVF20">
+        <Translation Language="GB">Ntrip服务器地址：</Translation>
+      </Text>
+      <Text Id="__SingleUse_WG1S" Alignment="Left" TypographyId="Verdana20">
+        <Translation Language="GB">故障</Translation>
+      </Text>
+      <Text Id="__SingleUse_YUUS" Alignment="Center" TypographyId="MiSanVF24">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_WTA5" Alignment="Left" TypographyId="MiSanVF20">
+        <Translation Language="GB">1540</Translation>
+      </Text>
+      <Text Id="__SingleUse_Q445" Alignment="Center" TypographyId="MiSanVF20">
+        <Translation Language="GB">干扰电机：&lt;value&gt;rpm</Translation>
+      </Text>
+      <Text Id="__SingleUse_L9CZ" Alignment="Left" TypographyId="MiSanVF20">
+        <Translation Language="GB">2104</Translation>
+      </Text>
+      <Text Id="__SingleUse_O4WU" Alignment="Center" TypographyId="MiSanVF20">
+        <Translation Language="GB">皮带电机：&lt;value&gt;rpm</Translation>
+      </Text>
+      <Text Id="__SingleUse_39TD" Alignment="Left" TypographyId="MiSanVF20">
+        <Translation Language="GB">8</Translation>
+      </Text>
+      <Text Id="__SingleUse_914A" Alignment="Center" TypographyId="MiSanVF24">
+        <Translation Language="GB">&lt;value&gt;号播种仓</Translation>
+      </Text>
+      <Text Id="__SingleUse_LG6L" Alignment="Left" TypographyId="Verdana20">
+        <Translation Language="GB">故障</Translation>
+      </Text>
+      <Text Id="__SingleUse_5YYE" Alignment="Center" TypographyId="MiSanVF24">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_WG4G" Alignment="Left" TypographyId="MiSanVF20">
+        <Translation Language="GB">1540</Translation>
+      </Text>
+      <Text Id="__SingleUse_I8BY" Alignment="Center" TypographyId="MiSanVF20">
+        <Translation Language="GB">干扰电机：&lt;value&gt;rpm</Translation>
+      </Text>
+      <Text Id="__SingleUse_T4DR" Alignment="Left" TypographyId="MiSanVF20">
+        <Translation Language="GB">2104</Translation>
+      </Text>
+      <Text Id="__SingleUse_ZPIK" Alignment="Center" TypographyId="MiSanVF20">
+        <Translation Language="GB">皮带电机：&lt;value&gt;rpm</Translation>
+      </Text>
+      <Text Id="__SingleUse_HKKC" Alignment="Left" TypographyId="MiSanVF20">
+        <Translation Language="GB">8</Translation>
+      </Text>
+      <Text Id="__SingleUse_CT1Q" Alignment="Center" TypographyId="MiSanVF24">
+        <Translation Language="GB">&lt;value&gt;号播种仓</Translation>
+      </Text>
+      <Text Id="__SingleUse_4XHX" Alignment="Left" TypographyId="Verdana20">
+        <Translation Language="GB">故障</Translation>
+      </Text>
+      <Text Id="__SingleUse_UUMC" Alignment="Center" TypographyId="MiSanVF24">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_AUJW" Alignment="Left" TypographyId="MiSanVF20">
+        <Translation Language="GB">1540</Translation>
+      </Text>
+      <Text Id="__SingleUse_OZ7L" Alignment="Center" TypographyId="MiSanVF20">
+        <Translation Language="GB">干扰电机：&lt;value&gt;rpm</Translation>
+      </Text>
+      <Text Id="__SingleUse_UVQ1" Alignment="Left" TypographyId="MiSanVF20">
+        <Translation Language="GB">2104</Translation>
+      </Text>
+      <Text Id="__SingleUse_9HO7" Alignment="Center" TypographyId="MiSanVF20">
+        <Translation Language="GB">皮带电机：&lt;value&gt;rpm</Translation>
+      </Text>
+      <Text Id="__SingleUse_ZXJ0" Alignment="Left" TypographyId="MiSanVF20">
+        <Translation Language="GB">8</Translation>
+      </Text>
+      <Text Id="__SingleUse_0FLI" Alignment="Center" TypographyId="MiSanVF24">
+        <Translation Language="GB">&lt;value&gt;号播种仓</Translation>
+      </Text>
+      <Text Id="__SingleUse_NTS4" Alignment="Left" TypographyId="Verdana20">
+        <Translation Language="GB">故障</Translation>
+      </Text>
+      <Text Id="__SingleUse_CYZP" Alignment="Center" TypographyId="MiSanVF24">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_R81X" Alignment="Left" TypographyId="MiSanVF20">
+        <Translation Language="GB">1540</Translation>
+      </Text>
+      <Text Id="__SingleUse_08GH" Alignment="Center" TypographyId="MiSanVF20">
+        <Translation Language="GB">干扰电机：&lt;value&gt;rpm</Translation>
+      </Text>
+      <Text Id="__SingleUse_WSTA" Alignment="Left" TypographyId="MiSanVF20">
+        <Translation Language="GB">2104</Translation>
+      </Text>
+      <Text Id="__SingleUse_GVNS" Alignment="Center" TypographyId="MiSanVF20">
+        <Translation Language="GB">皮带电机：&lt;value&gt;rpm</Translation>
+      </Text>
+      <Text Id="__SingleUse_1TDV" Alignment="Left" TypographyId="MiSanVF20">
+        <Translation Language="GB">8</Translation>
+      </Text>
+      <Text Id="__SingleUse_UMIO" Alignment="Center" TypographyId="MiSanVF24">
+        <Translation Language="GB">&lt;value&gt;号播种仓</Translation>
+      </Text>
+      <Text Id="__SingleUse_KG11" Alignment="Left" TypographyId="Verdana20">
+        <Translation Language="GB">故障</Translation>
+      </Text>
+      <Text Id="__SingleUse_K8ZX" Alignment="Center" TypographyId="MiSanVF24">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_S7DC" Alignment="Left" TypographyId="MiSanVF20">
+        <Translation Language="GB">1540</Translation>
+      </Text>
+      <Text Id="__SingleUse_KC2V" Alignment="Center" TypographyId="MiSanVF20">
+        <Translation Language="GB">干扰电机：&lt;value&gt;rpm</Translation>
+      </Text>
+      <Text Id="__SingleUse_U7BB" Alignment="Left" TypographyId="MiSanVF20">
+        <Translation Language="GB">2104</Translation>
+      </Text>
+      <Text Id="__SingleUse_BS75" Alignment="Center" TypographyId="MiSanVF20">
+        <Translation Language="GB">皮带电机：&lt;value&gt;rpm</Translation>
+      </Text>
+      <Text Id="__SingleUse_NDG3" Alignment="Left" TypographyId="MiSanVF20">
+        <Translation Language="GB">8</Translation>
+      </Text>
+      <Text Id="__SingleUse_VG19" Alignment="Center" TypographyId="MiSanVF24">
+        <Translation Language="GB">&lt;value&gt;号播种仓</Translation>
+      </Text>
+      <Text Id="__SingleUse_KJTK" Alignment="Left" TypographyId="Verdana20">
+        <Translation Language="GB">故障</Translation>
+      </Text>
+      <Text Id="__SingleUse_72AR" Alignment="Center" TypographyId="MiSanVF24">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_BTOE" Alignment="Left" TypographyId="MiSanVF20">
+        <Translation Language="GB">1540</Translation>
+      </Text>
+      <Text Id="__SingleUse_YMOO" Alignment="Center" TypographyId="MiSanVF20">
+        <Translation Language="GB">干扰电机：&lt;value&gt;rpm</Translation>
+      </Text>
+      <Text Id="__SingleUse_USTR" Alignment="Left" TypographyId="MiSanVF20">
+        <Translation Language="GB">2104</Translation>
+      </Text>
+      <Text Id="__SingleUse_BDW4" Alignment="Center" TypographyId="MiSanVF20">
+        <Translation Language="GB">皮带电机：&lt;value&gt;rpm</Translation>
+      </Text>
+      <Text Id="__SingleUse_PLYC" Alignment="Left" TypographyId="MiSanVF20">
+        <Translation Language="GB">8</Translation>
+      </Text>
+      <Text Id="__SingleUse_WYCX" Alignment="Center" TypographyId="MiSanVF24">
+        <Translation Language="GB">&lt;value&gt;号播种仓</Translation>
+      </Text>
+      <Text Id="__SingleUse_87ME" Alignment="Left" TypographyId="Verdana20">
+        <Translation Language="GB">故障</Translation>
+      </Text>
+      <Text Id="__SingleUse_U4TQ" Alignment="Center" TypographyId="MiSanVF24">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_9G1W" Alignment="Left" TypographyId="MiSanVF20">
+        <Translation Language="GB">1540</Translation>
+      </Text>
+      <Text Id="__SingleUse_EZV8" Alignment="Center" TypographyId="MiSanVF20">
+        <Translation Language="GB">干扰电机：&lt;value&gt;rpm</Translation>
+      </Text>
+      <Text Id="__SingleUse_YQ0V" Alignment="Left" TypographyId="MiSanVF20">
+        <Translation Language="GB">2104</Translation>
+      </Text>
+      <Text Id="__SingleUse_H7KN" Alignment="Center" TypographyId="MiSanVF20">
+        <Translation Language="GB">皮带电机：&lt;value&gt;rpm</Translation>
+      </Text>
+      <Text Id="__SingleUse_M40R" Alignment="Left" TypographyId="MiSanVF20">
+        <Translation Language="GB">8</Translation>
+      </Text>
+      <Text Id="__SingleUse_LZOU" Alignment="Center" TypographyId="MiSanVF24">
+        <Translation Language="GB">&lt;value&gt;号播种仓</Translation>
+      </Text>
+      <Text Id="__SingleUse_EWRN" Alignment="Left" TypographyId="Verdana20">
+        <Translation Language="GB">故障</Translation>
+      </Text>
+      <Text Id="__SingleUse_7P8T" Alignment="Center" TypographyId="MiSanVF24">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_156I" Alignment="Left" TypographyId="MiSanVF20">
+        <Translation Language="GB">1540</Translation>
+      </Text>
+      <Text Id="__SingleUse_61V3" Alignment="Center" TypographyId="MiSanVF20">
+        <Translation Language="GB">干扰电机：&lt;value&gt;rpm</Translation>
+      </Text>
+      <Text Id="__SingleUse_N35A" Alignment="Left" TypographyId="MiSanVF20">
+        <Translation Language="GB">2104</Translation>
+      </Text>
+      <Text Id="__SingleUse_1DCO" Alignment="Center" TypographyId="MiSanVF20">
+        <Translation Language="GB">皮带电机：&lt;value&gt;rpm</Translation>
+      </Text>
+      <Text Id="__SingleUse_66QQ" Alignment="Left" TypographyId="MiSanVF20">
+        <Translation Language="GB">8</Translation>
+      </Text>
+      <Text Id="__SingleUse_RQCR" Alignment="Center" TypographyId="MiSanVF24">
+        <Translation Language="GB">&lt;value&gt;号播种仓</Translation>
+      </Text>
+      <Text Id="__SingleUse_FMN8" Alignment="Left" TypographyId="Verdana20">
+        <Translation Language="GB">:</Translation>
+      </Text>
+      <Text Id="__SingleUse_DJLG" Alignment="Left" TypographyId="Verdana20">
+        <Translation Language="GB">/</Translation>
+      </Text>
+      <Text Id="__SingleUse_B885" Alignment="Left" TypographyId="Verdana20">
+        <Translation Language="GB">*</Translation>
+      </Text>
+      <Text Id="__SingleUse_8627" Alignment="Left" TypographyId="Verdana20">
+        <Translation Language="GB">-</Translation>
+      </Text>
+      <Text Id="__SingleUse_GIO7" Alignment="Left" TypographyId="Verdana20">
+        <Translation Language="GB">+</Translation>
+      </Text>
+      <Text Id="__SingleUse_Q0OS" Alignment="Left" TypographyId="MiSanVF30">
+        <Translation Language="GB">你</Translation>
+      </Text>
+      <Text Id="__SingleUse_SXXZ" Alignment="Center" TypographyId="MiSanVF30">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_T9N6" Alignment="Left" TypographyId="MiSanVF30">
+        <Translation Language="GB">你</Translation>
+      </Text>
+      <Text Id="__SingleUse_WXWI" Alignment="Center" TypographyId="MiSanVF30">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_APQF" Alignment="Left" TypographyId="MiSanVF30">
+        <Translation Language="GB">你</Translation>
+      </Text>
+      <Text Id="__SingleUse_5G4Q" Alignment="Center" TypographyId="MiSanVF30">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_AU88" Alignment="Left" TypographyId="MiSanVF30">
+        <Translation Language="GB">你</Translation>
+      </Text>
+      <Text Id="__SingleUse_8J39" Alignment="Center" TypographyId="MiSanVF30">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_99IQ" Alignment="Left" TypographyId="MiSanVF30">
+        <Translation Language="GB">你</Translation>
+      </Text>
+      <Text Id="__SingleUse_XJBF" Alignment="Center" TypographyId="MiSanVF30">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_2Q39" Alignment="Left" TypographyId="MiSanVF30">
+        <Translation Language="GB">你</Translation>
+      </Text>
+      <Text Id="__SingleUse_Y7IO" Alignment="Center" TypographyId="MiSanVF30">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_XOQU" Alignment="Center" TypographyId="MiSanVF24">
+        <Translation Language="GB">中</Translation>
+      </Text>
+      <Text Id="__SingleUse_P291" Alignment="Left" TypographyId="Verdana25">
+        <Translation Language="GB">.</Translation>
+      </Text>
+      <Text Id="__SingleUse_GQSV" Alignment="Center" TypographyId="Verdana25">
+        <Translation Language="GB">@</Translation>
+      </Text>
+      <Text Id="__SingleUse_H6HH" Alignment="Center" TypographyId="MiSanVF24">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_PC8L" Alignment="Left" TypographyId="Verdana25">
+        <Translation Language="GB">123</Translation>
+      </Text>
+      <Text Id="__SingleUse_23B7" Alignment="Center" TypographyId="MiSanVF30">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_HNDE" Alignment="Center" TypographyId="MiSanVF30">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_227C" Alignment="Center" TypographyId="MiSanVF30">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_YDAK" Alignment="Center" TypographyId="MiSanVF30">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_EUWM" Alignment="Center" TypographyId="MiSanVF30">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_MFE8" Alignment="Left" TypographyId="Verdana25">
+        <Translation Language="GB">0</Translation>
+      </Text>
+      <Text Id="__SingleUse_4XYJ" Alignment="Center" TypographyId="Verdana25">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_FBEY" Alignment="Left" TypographyId="Verdana25">
+        <Translation Language="GB">9</Translation>
+      </Text>
+      <Text Id="__SingleUse_7P0W" Alignment="Center" TypographyId="Verdana25">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_FA9L" Alignment="Left" TypographyId="Verdana25">
+        <Translation Language="GB">8</Translation>
+      </Text>
+      <Text Id="__SingleUse_QL52" Alignment="Center" TypographyId="Verdana25">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_UDMK" Alignment="Left" TypographyId="Verdana25">
+        <Translation Language="GB">7</Translation>
+      </Text>
+      <Text Id="__SingleUse_G6R6" Alignment="Center" TypographyId="Verdana25">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_S7AJ" Alignment="Left" TypographyId="Verdana25">
+        <Translation Language="GB">6</Translation>
+      </Text>
+      <Text Id="__SingleUse_K1D5" Alignment="Center" TypographyId="Verdana25">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_XT5F" Alignment="Left" TypographyId="Verdana25">
+        <Translation Language="GB">5</Translation>
+      </Text>
+      <Text Id="__SingleUse_NQ5D" Alignment="Center" TypographyId="Verdana25">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_Z2N3" Alignment="Left" TypographyId="Verdana25">
+        <Translation Language="GB">4</Translation>
+      </Text>
+      <Text Id="__SingleUse_6VGS" Alignment="Center" TypographyId="Verdana25">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_BPAW" Alignment="Left" TypographyId="Verdana25">
+        <Translation Language="GB">3</Translation>
+      </Text>
+      <Text Id="__SingleUse_H038" Alignment="Center" TypographyId="Verdana25">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_DAF2" Alignment="Left" TypographyId="Verdana25">
+        <Translation Language="GB">2</Translation>
+      </Text>
+      <Text Id="__SingleUse_EKJE" Alignment="Center" TypographyId="Verdana25">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_NLSY" Alignment="Left" TypographyId="Verdana25">
+        <Translation Language="GB">1</Translation>
+      </Text>
+      <Text Id="__SingleUse_0R81" Alignment="Center" TypographyId="Verdana25">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_2LKO" Alignment="Left" TypographyId="MiSanVF30">
+        <Translation Language="GB">Q</Translation>
+      </Text>
+      <Text Id="__SingleUse_A3CH" Alignment="Center" TypographyId="Verdana25">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_1UNA" Alignment="Left" TypographyId="MiSanVF30">
+        <Translation Language="GB">Q</Translation>
+      </Text>
+      <Text Id="__SingleUse_8YX2" Alignment="Center" TypographyId="Verdana25">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_HKRE" Alignment="Left" TypographyId="MiSanVF30">
+        <Translation Language="GB">Q</Translation>
+      </Text>
+      <Text Id="__SingleUse_KMWD" Alignment="Center" TypographyId="Verdana25">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_BGPG" Alignment="Left" TypographyId="MiSanVF30">
+        <Translation Language="GB">Q</Translation>
+      </Text>
+      <Text Id="__SingleUse_YFK3" Alignment="Center" TypographyId="Verdana25">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_8CK9" Alignment="Left" TypographyId="MiSanVF30">
+        <Translation Language="GB">Q</Translation>
+      </Text>
+      <Text Id="__SingleUse_EA6F" Alignment="Center" TypographyId="Verdana25">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_F28S" Alignment="Left" TypographyId="MiSanVF30">
+        <Translation Language="GB">Q</Translation>
+      </Text>
+      <Text Id="__SingleUse_QKNF" Alignment="Center" TypographyId="Verdana25">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_EDL6" Alignment="Left" TypographyId="MiSanVF30">
+        <Translation Language="GB">Q</Translation>
+      </Text>
+      <Text Id="__SingleUse_CK3I" Alignment="Center" TypographyId="Verdana25">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_3YZL" Alignment="Left" TypographyId="Verdana25">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_77H1" Alignment="Left" TypographyId="MiSanVF30">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_KWID" Alignment="Left" TypographyId="MiSanVF30">
+        <Translation Language="GB">Q</Translation>
+      </Text>
+      <Text Id="__SingleUse_D4PU" Alignment="Center" TypographyId="Verdana25">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_9NRN" Alignment="Left" TypographyId="MiSanVF30">
+        <Translation Language="GB">Q</Translation>
+      </Text>
+      <Text Id="__SingleUse_7349" Alignment="Center" TypographyId="Verdana25">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_UWUI" Alignment="Left" TypographyId="MiSanVF30">
+        <Translation Language="GB">Q</Translation>
+      </Text>
+      <Text Id="__SingleUse_1HFY" Alignment="Center" TypographyId="Verdana25">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_NTUH" Alignment="Left" TypographyId="MiSanVF30">
+        <Translation Language="GB">Q</Translation>
+      </Text>
+      <Text Id="__SingleUse_TXGC" Alignment="Center" TypographyId="Verdana25">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_0LKM" Alignment="Left" TypographyId="MiSanVF30">
+        <Translation Language="GB">Q</Translation>
+      </Text>
+      <Text Id="__SingleUse_4YMJ" Alignment="Center" TypographyId="Verdana25">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_TI8O" Alignment="Left" TypographyId="MiSanVF30">
+        <Translation Language="GB">Q</Translation>
+      </Text>
+      <Text Id="__SingleUse_LO5R" Alignment="Center" TypographyId="Verdana25">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_JD9V" Alignment="Left" TypographyId="MiSanVF30">
+        <Translation Language="GB">Q</Translation>
+      </Text>
+      <Text Id="__SingleUse_OY89" Alignment="Center" TypographyId="Verdana25">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_IX58" Alignment="Left" TypographyId="MiSanVF30">
+        <Translation Language="GB">Q</Translation>
+      </Text>
+      <Text Id="__SingleUse_WCIK" Alignment="Center" TypographyId="Verdana25">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_N45A" Alignment="Left" TypographyId="MiSanVF30">
+        <Translation Language="GB">Q</Translation>
+      </Text>
+      <Text Id="__SingleUse_M7PG" Alignment="Center" TypographyId="Verdana25">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_MTV3" Alignment="Left" TypographyId="MiSanVF30">
+        <Translation Language="GB">Q</Translation>
+      </Text>
+      <Text Id="__SingleUse_4XGU" Alignment="Center" TypographyId="Verdana25">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_EW33" Alignment="Left" TypographyId="MiSanVF30">
+        <Translation Language="GB">Q</Translation>
+      </Text>
+      <Text Id="__SingleUse_HOY2" Alignment="Center" TypographyId="Verdana25">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_GFRY" Alignment="Left" TypographyId="MiSanVF30">
+        <Translation Language="GB">Q</Translation>
+      </Text>
+      <Text Id="__SingleUse_7QSZ" Alignment="Center" TypographyId="Verdana25">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_EZ3K" Alignment="Left" TypographyId="MiSanVF30">
+        <Translation Language="GB">Q</Translation>
+      </Text>
+      <Text Id="__SingleUse_HFHZ" Alignment="Center" TypographyId="Verdana25">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_O76E" Alignment="Left" TypographyId="MiSanVF30">
+        <Translation Language="GB">Q</Translation>
+      </Text>
+      <Text Id="__SingleUse_E5MF" Alignment="Center" TypographyId="Verdana25">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_11MC" Alignment="Left" TypographyId="MiSanVF30">
+        <Translation Language="GB">Q</Translation>
+      </Text>
+      <Text Id="__SingleUse_ZPNF" Alignment="Center" TypographyId="Verdana25">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_LVTA" Alignment="Left" TypographyId="MiSanVF30">
+        <Translation Language="GB">Q</Translation>
+      </Text>
+      <Text Id="__SingleUse_1IBW" Alignment="Center" TypographyId="Verdana25">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_PZYA" Alignment="Left" TypographyId="MiSanVF30">
+        <Translation Language="GB">Q</Translation>
+      </Text>
+      <Text Id="__SingleUse_UG0K" Alignment="Center" TypographyId="Verdana25">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_HR2U" Alignment="Left" TypographyId="MiSanVF30">
+        <Translation Language="GB">Q</Translation>
+      </Text>
+      <Text Id="__SingleUse_J1OO" Alignment="Center" TypographyId="Verdana25">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_7I12" Alignment="Left" TypographyId="MiSanVF30">
+        <Translation Language="GB">Q</Translation>
+      </Text>
+      <Text Id="__SingleUse_AVRJ" Alignment="Center" TypographyId="Verdana25">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_TGKK" Alignment="Left" TypographyId="Verdana25">
+        <Translation Language="GB">OK</Translation>
+      </Text>
+      <Text Id="__SingleUse_XS26" Alignment="Center" TypographyId="Verdana25">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_WMMK" Alignment="Center" TypographyId="MiSanVF24">
+        <Translation Language="GB">控制模式</Translation>
+      </Text>
+      <Text Id="__SingleUse_R4OO" Alignment="Left" TypographyId="Verdana20">
+        <Translation Language="GB">&lt;&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_68LN" Alignment="Right" TypographyId="Verdana20">
+        <Translation Language="GB">&lt;&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_R4QJ" Alignment="Left" TypographyId="MiSanVF24">
+        <Translation Language="GB">Wait...</Translation>
+      </Text>
+      <Text Id="__SingleUse_XF4S" Alignment="Center" TypographyId="MiSanVF30">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="USB_concatenate" Alignment="Center" TypographyId="MiSanVF20">
+        <Translation Language="GB" Alignment="Center">连接</Translation>
+      </Text>
+      <Text Id="USB_disconnect" Alignment="Center" TypographyId="MiSanVF20">
+        <Translation Language="GB" Alignment="Center">断开</Translation>
+      </Text>
+      <Text Id="USB_transfer" Alignment="Center" TypographyId="MiSanVF20">
+        <Translation Language="GB">断开</Translation>
+      </Text>
+      <Text Id="__SingleUse_CM2B" Alignment="Center" TypographyId="MiSanVF24">
+        <Translation Language="GB">USB连接</Translation>
+      </Text>
+      <Text Id="__SingleUse_UUX3" Alignment="Left" TypographyId="Verdana20">
+        <Translation Language="GB">40</Translation>
+      </Text>
+      <Text Id="__SingleUse_TXO6" Alignment="Left" TypographyId="Verdana20">
+        <Translation Language="GB">99</Translation>
+      </Text>
+      <Text Id="__SingleUse_EFTW" Alignment="Center" TypographyId="Verdana20">
+        <Translation Language="GB">C:&lt;value&gt;% &lt;value&gt;C</Translation>
+      </Text>
+      <Text Id="__SingleUse_4Y79" Alignment="Center" TypographyId="MiSanVF24">
+        <Translation Language="GB">文本预览</Translation>
+      </Text>
+      <Text Id="__SingleUse_VHYM" Alignment="Left" TypographyId="MiSanVF30">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_JURT" Alignment="Left" TypographyId="MiSanVF30">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_IDO9" Alignment="Left" TypographyId="Verdana20">
+        <Translation Language="GB">text</Translation>
+      </Text>
+      <Text Id="__SingleUse_D34Z" Alignment="Center" TypographyId="MiSanVF30">
+        <Translation Language="GB">文件：&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_MIRK" Alignment="Left" TypographyId="MiSanVF30">
+        <Translation Language="GB">文件浏览</Translation>
+      </Text>
+      <Text Id="__SingleUse_CPZ3" Alignment="Left" TypographyId="Verdana20">
+        <Translation Language="GB">文件text</Translation>
+      </Text>
+      <Text Id="__SingleUse_14O3" Alignment="Left" TypographyId="MiSanVF30">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_AT5S" Alignment="Left" TypographyId="Verdana20">
+        <Translation Language="GB">故障</Translation>
+      </Text>
+      <Text Id="__SingleUse_KDTK" Alignment="Center" TypographyId="MiSanVF24">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_RYTC" Alignment="Left" TypographyId="MiSanVF20">
+        <Translation Language="GB">1540</Translation>
+      </Text>
+      <Text Id="__SingleUse_V3E1" Alignment="Center" TypographyId="MiSanVF20">
+        <Translation Language="GB">干扰电机：&lt;value&gt;rpm</Translation>
+      </Text>
+      <Text Id="__SingleUse_E1YW" Alignment="Left" TypographyId="MiSanVF20">
+        <Translation Language="GB">2104</Translation>
+      </Text>
+      <Text Id="__SingleUse_X0ZA" Alignment="Center" TypographyId="MiSanVF20">
+        <Translation Language="GB">皮带电机：&lt;value&gt;rpm</Translation>
+      </Text>
+      <Text Id="__SingleUse_V804" Alignment="Left" TypographyId="MiSanVF20">
+        <Translation Language="GB">8</Translation>
+      </Text>
+      <Text Id="__SingleUse_CAR4" Alignment="Center" TypographyId="MiSanVF24">
+        <Translation Language="GB">&lt;value&gt;号播种仓</Translation>
+      </Text>
+      <Text Id="__SingleUse_89F7" Alignment="Left" TypographyId="MiSanVF24">
+        <Translation Language="GB">水稻直播系统</Translation>
+      </Text>
+      <Text Id="__SingleUse_84KX" Alignment="Left" TypographyId="iconfont25">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_5UOD" Alignment="Center" TypographyId="iconfont25">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_X9QA" Alignment="Left" TypographyId="Verdana20">
+        <Translation Language="GB">60</Translation>
+      </Text>
+      <Text Id="__SingleUse_NIFX" Alignment="Center" TypographyId="Verdana20">
+        <Translation Language="GB">fps:&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_22YN" Alignment="Left" TypographyId="iconfont25">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_ULL0" Alignment="Center" TypographyId="iconfont25">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_PYZM" Alignment="Left" TypographyId="Verdana20">
+        <Translation Language="GB">45</Translation>
+      </Text>
+      <Text Id="__SingleUse_RJ4D" Alignment="Left" TypographyId="Verdana20">
+        <Translation Language="GB">11</Translation>
+      </Text>
+      <Text Id="__SingleUse_DZU2" Alignment="Center" TypographyId="Verdana20">
+        <Translation Language="GB">&lt;value&gt;:&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_PN77" Alignment="Left" TypographyId="Verdana20">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_TPS3" Alignment="Center" TypographyId="iconfont42">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_8A4B" Alignment="Left" TypographyId="iconfont42">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_3QQD" Alignment="Center" TypographyId="iconfont42">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_NUQQ" Alignment="Left" TypographyId="iconfont42">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_Q62N" Alignment="Center" TypographyId="iconfont42">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_PON3" Alignment="Left" TypographyId="iconfont42">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_XSBA" Alignment="Center" TypographyId="iconfont42">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_W72H" Alignment="Left" TypographyId="MiSanVF40">
+        <Translation Language="GB">设置</Translation>
+      </Text>
+      <Text Id="__SingleUse_S24J" Alignment="Center" TypographyId="MiSanVF60">
+        <Translation Language="GB">&lt;&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_V5Z7" Alignment="Center" TypographyId="MiSanVF24">
+        <Translation Language="GB">文件管理</Translation>
+      </Text>
+      <Text Id="__SingleUse_1Y7Q" Alignment="Center" TypographyId="MiSanVF24">
+        <Translation Language="GB">水稻直播</Translation>
+      </Text>
+      <Text Id="__SingleUse_RTNP" Alignment="Center" TypographyId="MiSanVF24">
+        <Translation Language="GB">设置</Translation>
+      </Text>
+      <Text Id="__SingleUse_GVSS" Alignment="Left" TypographyId="Verdana20">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_M0OP" Alignment="Center" TypographyId="iconfont42">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_JY7K" Alignment="Left" TypographyId="iconfont25">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_LUI0" Alignment="Center" TypographyId="iconfont25">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_0U6J" Alignment="Left" TypographyId="Verdana20">
+        <Translation Language="GB">60</Translation>
+      </Text>
+      <Text Id="__SingleUse_B175" Alignment="Center" TypographyId="Verdana20">
+        <Translation Language="GB">F:&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_ICVP" Alignment="Left" TypographyId="iconfont42">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_JLZ0" Alignment="Center" TypographyId="iconfont42">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_88NJ" Alignment="Left" TypographyId="iconfont42">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_1GK8" Alignment="Center" TypographyId="iconfont42">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_OIXB" Alignment="Left" TypographyId="iconfont42">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_7BEH" Alignment="Center" TypographyId="iconfont42">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_8XE7" Alignment="Center" TypographyId="MiSanVF24">
+        <Translation Language="GB">4G 配置</Translation>
+      </Text>
+      <Text Id="__SingleUse_T7GY" Alignment="Left" TypographyId="iconfont25">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_UTFJ" Alignment="Center" TypographyId="iconfont25">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_14IR" Alignment="Left" TypographyId="Verdana20">
+        <Translation Language="GB">45</Translation>
+      </Text>
+      <Text Id="__SingleUse_MNB6" Alignment="Left" TypographyId="Verdana20">
+        <Translation Language="GB">11</Translation>
+      </Text>
+      <Text Id="__SingleUse_LKQK" Alignment="Center" TypographyId="Verdana20">
+        <Translation Language="GB">&lt;value&gt;:&lt;value&gt;</Translation>
+      </Text>
+    </TextGroup>
+  </Texts>
+  <Typographies>
+    <Typography Id="Verdana20" Font="verdana.ttf" Size="20" Bpp="1" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacters="-., 0123456789/:！!&amp;$" WidgetWildcardCharacters="-., 0123456789" WildcardCharacterRanges="0-9,a-z,A-Z,32,0x0a,0x0d" />
+    <Typography Id="iconfont25" Font="iconfont.ttf" Size="25" Bpp="1" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="0xe636,0xea0f,0xea11,0xea12,0xea13" />
+    <Typography Id="iconfont42" Font="iconfont.ttf" Size="42" Bpp="1" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="0xe633,0xe625,0xe6be,0xe636,0xe629,0xea0f,0xea11,0xea12,0xea13" />
+    <Typography Id="MiSanVF24" Font="MiSansVF.ttf" Size="24" Bpp="1" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacters=".离线电源运行故障空仓断开连接重输_," WildcardCharacterRanges="0-9,a-z,A-Z" />
+    <Typography Id="MiSanVF60" Font="MiSansVF.ttf" Size="60" Bpp="1" IsVector="no" Direction="LTR" FallbackCharacter="?" WidgetWildcardCharacters="0123456789 :APM" WildcardCharacterRanges="0-9,a-z,A-Z" />
+    <Typography Id="MiSanVF40" Font="MiSansVF.ttf" Size="40" Bpp="1" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacters=" " WildcardCharacterRanges="0-9,a-z,A-Z" />
+    <Typography Id="MiSanVF20" Font="MiSansVF.ttf" Size="20" Bpp="1" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacters=".:/" WildcardCharacterRanges="0-9,a-z,A-Z" />
+    <Typography Id="MiSanVF30" Font="MiSansVF.ttf" Size="30" Bpp="1" IsVector="no" Direction="LTR" FallbackCharacter="龖" WildcardCharacters="挂载点密码用户名端口号服务器地址系统开机次数背光亮度音量大小？*&amp;&lt;&gt;(){}[];.@#&quot;&quot;''/\-+%~!@#$%^&amp;*()-_=+[{}]\|;:'&quot;,&lt;.&gt;/?/*~·！@#￥%……&amp;*（）——++-=、|【{}】；：‘“，《。》/？*" WildcardCharacterRanges="a-z,A-Z,0x0a,0x0d,0-9,0x00-0x7f" />
+    <Typography Id="Verdana25" Font="verdana.ttf" Size="25" Bpp="1" IsVector="no" Direction="LTR" WildcardCharacters="+:,=.()_/&quot;" WildcardCharacterRanges="0-9,a-z,A-Z,32,0x0a,0x0d" />
+  </Typographies>
+</TextDatabase>

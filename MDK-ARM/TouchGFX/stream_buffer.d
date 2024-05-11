@@ -1,0 +1,14 @@
+touchgfx\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c
+touchgfx\stream_buffer.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+touchgfx\stream_buffer.o: D:\Keil\ARM\ARMCC\Bin\..\include\string.h
+touchgfx\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+touchgfx\stream_buffer.o: D:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+touchgfx\stream_buffer.o: ../Core/Inc/FreeRTOSConfig.h
+touchgfx\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+touchgfx\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+touchgfx\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+touchgfx\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+touchgfx\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+touchgfx\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+touchgfx\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+touchgfx\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/stream_buffer.h

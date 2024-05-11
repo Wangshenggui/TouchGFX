@@ -1,0 +1,2 @@
+touchgfx\image_brightness2.o: ../touchgfx/generated/images/src/notificationbarcontainer/image_brightness2.cpp
+touchgfx\image_brightness2.o: ../middlewares/st/touchgfx/framework/include/touchgfx/hal/Config.hpp
